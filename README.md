@@ -1,2 +1,3 @@
 # sample
-一些例子
+平时使用库用到的一些例子：
+openssl sample
